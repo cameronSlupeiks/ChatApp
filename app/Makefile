@@ -1,7 +1,7 @@
-all: a4
+all: app
 
-a4: a4.c
-	gcc -o a4 a4.c
-
+app: app.c
+	gcc -o app app.c
+	
 clean:
-	rm -f a4 a4.o
+	rm -f app app.o
