@@ -28,7 +28,10 @@ make
 ```
 quit
 ```
-
 ## Demo
 ![](demo.gif)
+
+## Contributors
+
+* **Cameron Slupeiks** - *Initial work* - [cameronSlupeiks](https://github.com/cameronSlupeiks)
 
