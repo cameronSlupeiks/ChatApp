@@ -30,4 +30,5 @@ quit
 ```
 
 ## Demo
+![](demo.gif
 
