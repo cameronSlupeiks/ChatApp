@@ -33,5 +33,6 @@ quit
 
 ## Contributors
 
-* **Cameron Slupeiks** - *Initial work* - [cameronSlupeiks](https://github.com/cameronSlupeiks)
+* **Cameron Slupeiks** - [cameronSlupeiks](https://github.com/cameronSlupeiks)
+* **Cameron O'Leary**  - [cameronoleary](https://github.com/cameronoleary)
 
