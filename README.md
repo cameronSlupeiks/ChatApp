@@ -15,5 +15,19 @@ In order to get the app up and running, you will need to terminals open on your 
 ```
 make
 ```
-3)
+3) Enter the following command in the first terminal:
+```
+./chat
+```
+4) Enter the following command in the second terminal:
+```
+./chat 127.0.0.1
+```
+5) Both terminals are now connected. You can now chat freely! 
+6) To quit the program enter the following:
+```
+quit
+```
+
+## Demo
 
