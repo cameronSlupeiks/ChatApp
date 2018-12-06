@@ -1,7 +1,7 @@
 all: chat
 
 chat: main.o app.o
-	gcc main.o app.o -o a4
+	gcc main.o app.o -o chat
 
 main.o: main.c app.h
 	gcc -c main.c
