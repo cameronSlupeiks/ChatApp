@@ -30,5 +30,5 @@ quit
 ```
 
 ## Demo
-![](demo.gif
+![](demo.gif)
 
