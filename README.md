@@ -1,5 +1,5 @@
 # Chat App 👨‍💻
-A small program built to experiment with Sockets in C using TCP/IP. Users can chat back and forth via two seperate terminals on a localhost until a user enters "quit", in which case the program terminates.
+A small program built to experiment with Sockets in C using TCP/IP. Users can chat back and forth via two seperate terminals on localhost until a user enters "quit", in which case the program terminates.
 
 ## Getting Started
 In order to get the app up and running, you will need to terminals open on your machine. Follow the instructions below.
